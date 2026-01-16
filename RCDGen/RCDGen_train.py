@@ -9,7 +9,7 @@ import PIL.Image as Image
 import shutil
 from contextlib import nullcontext
 from pathlib import Path
-import remote
+import remote_sensing_dataset as remote
 import accelerate
 import datasets
 import numpy as np
