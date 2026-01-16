@@ -1,0 +1,24 @@
+name: rcdgen
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch=2.2.0
+  - torchvision=0.17.0
+  - pytorch-cuda=11.8
+  - numpy
+  - pillow
+  - pip
+  - pip:
+      - accelerate==0.34.2
+      - datasets==3.0.1
+      - transformers==4.39.1
+      - huggingface-hub==0.25.1
+      - opencv-python==4.10.0.84
+      - wandb>=0.15.0
+      - tqdm>=4.66.0
+      - xformers==0.0.24
+      - safetensors==0.4.5
