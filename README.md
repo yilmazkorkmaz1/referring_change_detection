@@ -2,11 +2,9 @@
 
 ## Status
 
-- ✅ **RCDGen release is done.**
+- ✅ **RCDGen and RCDNet release is done.**
 - 🤗 **Pretrained weights are available:** https://huggingface.co/yilmazkorkmaz/RCDGen
-- ⏳ **RCDNet and the synthetic dataset will be released.**
 - 🤗 **Pretrained weights are available:** [`yilmazkorkmaz/RCDGen`](https://huggingface.co/yilmazkorkmaz/RCDGen)
-- ✅ **RCDNet is added.**
 - 🤗 **RCDNet pretrained weights (trained only with real datasets):** [Google Drive folder](https://drive.google.com/drive/folders/1foXpLPz3jtaQN7l6UdlDFVSgakgm6RXP?usp=share_link) (includes `SECOND-model.safetensors` and `CNAM-CD-model.safetensors`)
 - 🤗 **Synthetic datasets are available on Hugging Face:**
   - **SECOND Synthetic:** [`yilmazkorkmaz/Synthetic_RCD_1`](https://huggingface.co/datasets/yilmazkorkmaz/Synthetic_RCD_1)
