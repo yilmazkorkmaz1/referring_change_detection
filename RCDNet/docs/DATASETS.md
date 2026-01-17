@@ -152,9 +152,9 @@ For real change detection datasets, please refer to the original sources:
 | Dataset | Source | Classes |
 |---------|--------|---------|
 | SECOND | [Official](https://captain-whu.github.io/SCD/) | 7 |
-| CNAM-CD | [Official](https://github.com/Chen-Yang-Liu/CNAM-CD) | 6 |
+| CNAM-CD | [Official](https://github.com/Silvestezhou/CNAM-CD) | 6 |
 | LEVIR-CD | [Official](https://justchenhao.github.io/LEVIR/) | 2 |
-| WHU-CD | [Official](https://study.rsgis.whu.edu.cn/pages/download/) | 2 |
+| WHU-CD | [Official](https://www.dropbox.com/scl/fi/ci39uxbzwmxr3asxs5h1s/WHU-CD-256.zip?rlkey=fl82nzgzsw0wc6gi7botjuapu&e=2&dl=0) | 2 |
 
 ---
 
