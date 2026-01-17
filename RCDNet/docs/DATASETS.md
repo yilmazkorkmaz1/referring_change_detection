@@ -28,7 +28,7 @@ The **A/** (pre-change images) come from the original datasets and are NOT inclu
 | Dataset | Hugging Face Repo | Original Dataset Required |
 |---------|-------------------|---------------------------|
 | SECOND Synthetic | [`yilmazkorkmaz/Synthetic_RCD_1`](https://huggingface.co/datasets/yilmazkorkmaz/Synthetic_RCD_1) | [SECOND](https://captain-whu.github.io/SCD/) |
-| CNAM-CD Synthetic | [`yilmazkorkmaz/Synthetic_RCD_2`](https://huggingface.co/datasets/yilmazkorkmaz/Synthetic_RCD_2) | [CNAM-CD](https://github.com/Chen-Yang-Liu/CNAM-CD) |
+| CNAM-CD Synthetic | [`yilmazkorkmaz/Synthetic_RCD_2`](https://huggingface.co/datasets/yilmazkorkmaz/Synthetic_RCD_2) | [CNAM-CD](https://github.com/Silvestezhou/CNAM-CD) |
 
 #### Option 1: Use with Original Dataset (Recommended)
 
