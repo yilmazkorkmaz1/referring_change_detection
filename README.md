@@ -1,4 +1,4 @@
-# Referring Change Detection in Remote Sensing Imagery
+# Referring Change Detection in Remote Sensing Imagery (WACV 2026)
 
 <p align="center">
   <a href="https://yilmazkorkmaz1.github.io/RCD/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-2ea44f"></a>
