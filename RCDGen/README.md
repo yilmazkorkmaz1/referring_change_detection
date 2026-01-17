@@ -99,4 +99,4 @@ change_mask = images[1][0]
 
 Or see `RCDGen_inference.py` for a complete inference example.
 
-Codes are mainly adapted from https://github.com/huggingface/diffusers/tree/main/examples/instruct_pix2pix
+Codes are mainly adapted from https://github.com/huggingface/diffusers/tree/main/examples/instruct_pix2pix. We thank the authors.
