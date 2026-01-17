@@ -3,7 +3,6 @@
 ## Status
 
 - ✅ **RCDGen release is done.**
-<<<<<<< HEAD
 - 🤗 **Pretrained weights are available:** https://huggingface.co/yilmazkorkmaz/RCDGen
 - ⏳ **RCDNet and the synthetic dataset will be released.**
 =======
@@ -20,16 +19,13 @@
 For details on running RCDGen, data preparation, and training/inference instructions, see:
 - [`RCDGen/README.md`](RCDGen/README.md)
 
-<<<<<<< HEAD
 =======
 ## RCDNet
 
 For details on running RCDNet, data preparation, and training/evaluation instructions, see:
 - [`RCDNet/README.md`](RCDNet/README.md)
 
->>>>>>> ccab75a (Upload RCDNet files)
 ## Usage and citation
-
 You are encouraged to use and distribute this code for research and development purposes with appropriate citation:
 
 ```bibtex
