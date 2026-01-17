@@ -1,5 +1,16 @@
 # Referring Change Detection in Remote Sensing Imagery
 
+<p align="center">
+  <a href="https://yilmazkorkmaz1.github.io/RCD/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-2ea44f"></a>
+  <a href="https://arxiv.org/pdf/2512.11719"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.11719-b31b1b"></a>
+  <a href="https://huggingface.co/yilmazkorkmaz/RCDGen"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-RCDGen-yellow"></a>
+</p>
+
+## Links
+
+- **Project webpage**: [`yilmazkorkmaz1.github.io/RCD`](https://yilmazkorkmaz1.github.io/RCD/)
+- **Paper (arXiv)**: [`arxiv.org/pdf/2512.11719`](https://arxiv.org/pdf/2512.11719)
+
 ## Status
 
 - ✅ **RCDGen and RCDNet release is done.**
