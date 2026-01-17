@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.pyd
+
+.DS_Store
+.idea/
+.vscode/
+
+# Training outputs
+runs/
+wandb/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+data/
