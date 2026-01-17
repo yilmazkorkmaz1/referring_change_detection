@@ -6,6 +6,7 @@
 - 🤗 **RCDGen pretrained weights are available:** [`yilmazkorkmaz/RCDGen`](https://huggingface.co/yilmazkorkmaz/RCDGen)
 - 🤗 **RCDNet pretrained weights are available (trained only with real datasets):** [Google Drive folder](https://drive.google.com/drive/folders/1foXpLPz3jtaQN7l6UdlDFVSgakgm6RXP?usp=share_link) (includes `SECOND-model.safetensors` and `CNAM-CD-model.safetensors`)
 - 🤗 **Synthetic datasets are available:**
+  
   - **SECOND Synthetic:** [`yilmazkorkmaz/Synthetic_RCD_1`](https://huggingface.co/datasets/yilmazkorkmaz/Synthetic_RCD_1)
   - **CNAM-CD Synthetic:** [`yilmazkorkmaz/Synthetic_RCD_2`](https://huggingface.co/datasets/yilmazkorkmaz/Synthetic_RCD_2)
 
