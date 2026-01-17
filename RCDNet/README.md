@@ -187,7 +187,7 @@ Supports `.pt`, `.pth`, and `.safetensors` checkpoint formats.
 | `decoder` | `MambaDecoder`, `MLPDecoder` | `MambaDecoder` |
 | `image_height/width` | Input image size | 512 |
 | `lr` | Learning rate | 6e-5 |
-| `batch_size` | Batch size | 2 |
+| `batch_size` | Batch size | 2 x 8 (number of GPUs)|
 | `nepochs` | Total epochs | 500 |
 
 
